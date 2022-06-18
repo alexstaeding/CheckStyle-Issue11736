@@ -1,7 +1,9 @@
 import org.jetbrains.annotations.ApiStatus;
 import org.jetbrains.annotations.ApiStatus.Internal;
 
-@Internal
+/**
+ * Ignore.
+ */
 public interface Foo {
 
     @ApiStatus.Internal
